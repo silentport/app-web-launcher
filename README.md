@@ -9,8 +9,8 @@
 ```
 you can call openByApp in "goto" and handle some thing, it need one argument named option, option is an object, as follows:
 
-|key|value|
-|-|-|
+|key|type|value|
+|-|-|-|
 |context | Object|callback's context, default is null|
 |deeplink | String|app's deeplink, must|
 |downloadUrl | String|download url if no app, must|
