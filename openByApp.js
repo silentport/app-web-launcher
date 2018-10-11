@@ -9,7 +9,7 @@ function openByApp(option) {
   document.removeEventListener("visibilitychange", window.handleHidePage);
 
   tryTime = new Date();
-  window.location.href = option.deeplink;
+  
   if (window.navigator.userAgent.match(/android/i) != null) {
     iframe = document.createElement("iframe");
     iframe.src = option.deeplink;
