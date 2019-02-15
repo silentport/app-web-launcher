@@ -1,5 +1,6 @@
 ## app-web-launcher
-
+[![Build Status](https://travis-ci.org/silentport/app-web-launcher.svg?branch=master)](https://travis-ci.org/silentport/app-web-launcher)
+<a href="https://www.npmjs.com/package/app-web-launcher"><img alt="undefined" src="https://img.shields.io/npm/v/app-web-launcher.svg?style=flat"></a>
 ### This is a function that could open Native App from HTML page when some events are triggered.
 
 ### install
