@@ -1,0 +1,23 @@
+{
+  "name": "app-web-launcher",
+  "version": "1.0.0",
+  "description": "  goApp(deepLink) {",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silentport/openByApp.git"
+  },
+  "keywords": [
+    "app",
+    "launcher"
+  ],
+  "author": "liyonglong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/silentport/openByApp/issues"
+  },
+  "homepage": "https://github.com/silentport/openByApp#readme"
+}
