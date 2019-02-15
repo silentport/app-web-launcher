@@ -19,7 +19,7 @@ const appLauncher = new AppLauncher()
 function goto() {
    appLauncher.launch({
      deepLink: "****",
-     url: "****,
+     url: "****",
      pressCb: () => {/*todo*/},
      failCb: () => {/*todo*/}
    })
